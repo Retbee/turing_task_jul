@@ -1,0 +1,33 @@
+h1, h3 {
+    width: 200px;
+    text-align: left;
+}
+
+.p_green {
+    color: green;
+}
+
+.cursive {
+    font-style: italic;
+}
+
+.heavy {
+    font-weight: bold;
+}
+
+p {
+    margin-left: 30px;
+    text-align: right;
+}
+
+#main_container {
+    background-color: red;
+    width: 90px;
+    height: 70px;
+}
+
+#container {
+    background-color: blue;
+    width: 70px;
+    height: 70px;
+}
